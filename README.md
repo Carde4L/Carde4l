@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">〔📱〕 Entre em contato comigo〔📱〕</h3>
+<h3 align="center">〔📱〕Entre em contato comigo〔📱〕</h3>
 
 ###
 
