@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+<!--
+-->
 <h3 align="center">〔📱〕Entre em contato comigo〔📱〕</h3>
 
 ###
