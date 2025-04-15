@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Olá eu sou Lucas, mas pode me chamar de Cardeal. <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Sou Engenheiro de Software. <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Sou desenvoldedor web, e também Design.<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Sou desenvoldedor Fullstack, e também Design.<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Gosto de criar experiências únicas, combinando minha criatividade com linhas de códigos. <br>
 ###
 
